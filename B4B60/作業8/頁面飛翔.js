@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"頁面飛翔_HTML5 Canvas_atlas_1", frames: [[0,0,672,670]]}
+		{name:"頁面飛翔_atlas_1", frames: [[0,0,672,670]]}
 ];
 
 
@@ -28,14 +28,14 @@ lib.ssMetadata = [
 
 
 (lib.圖層1影像 = function() {
-	this.initialize(ss["頁面飛翔_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["頁面飛翔_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 // stage content:
-(lib.頁面飛翔_HTML5Canvas = function(mode,startPosition,loop,reversed) {
+(lib.頁面飛翔 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -164,7 +164,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/頁面飛翔_HTML5 Canvas_atlas_1.png?1732016024844", id:"頁面飛翔_HTML5 Canvas_atlas_1"}
+		{src:"images/頁面飛翔_atlas_1.png?1732032892267", id:"頁面飛翔_atlas_1"}
 	],
 	preloads: []
 };
