@@ -160,11 +160,11 @@ lib.properties = {
 	id: '52851024B6764E80A77D2528BDD209E1',
 	width: 336,
 	height: 335,
-	fps: 15,
+	fps: 12,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/頁面飛翔_atlas_1.png?1732102759396", id:"頁面飛翔_atlas_1"}
+		{src:"images/頁面飛翔_atlas_1.png?1732103134521", id:"頁面飛翔_atlas_1"}
 	],
 	preloads: []
 };
