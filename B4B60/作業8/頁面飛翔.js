@@ -57,43 +57,43 @@ if (reversed == null) { reversed = false; }
 
 	this.shape_2 = new cjs.Shape();
 	this.shape_2.graphics.f("#EDEBEB").s().p("Ag7ARQg4gNhCgKQg+gDg5ACQhFAHg4APQgtALgnAOQAngkAtgkIALgEQBegQBjAAQBCAEA+AJIBEAXIAnAVIA4gbQAqgJAkgFQAygEA5gBQAxACArAFQA5AKAvAMIA7AqQg5gShAgLQgugLgzgIQgsABglACIhXAfIhJASIgeATg");
-	this.shape_2.setTransform(227.025,162.725);
+	this.shape_2.setTransform(227.025,154.725);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#EDEBEB").s().p("Ag3AfQg2gRg8gPQhIgLgsgFQhCAAg+ADQgvADgsAFIBVg+IAMgDQBeADBmALQBAAMA7AMIBAAdIAkAWIA1gfIBJgTQA7gKAtgGIBcgEQBCAAArACIA+AhQhFgEg+ABQhEAFgvAGIhSANIiEAuIgbAWg");
-	this.shape_3.setTransform(227.125,152.075);
+	this.shape_3.setTransform(211.125,134.075);
 
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("#EDEBEB").s().p("AgyAvIhrgnIhvgaQhIgJg6gFIhggJIBcgvIALgBIDCAmIB0AgIA7AeIAhAYIAwghIBGgWIBjgYIBagPQA4gIA3gGIBDAWQguAFhdANIhyAbIhQAUIh7A1IgZAXg");
-	this.shape_4.setTransform(215.7,141.775);
+	this.shape_4.setTransform(199.7,127.775);
 
 	this.shape_5 = new cjs.Shape();
 	this.shape_5.graphics.f("#EDEBEB").s().p("AgtA6IhjgqIhrgiIjmgzQAzgNA1gRIALABQA/AUB4AjIBtAlIA2AeIAeAXIAsghIBAgXIBegeIDFgyIBJALIiOAjIi+BAIhyA5IgXAWQgbgTgfgXg");
-	this.shape_5.setTransform(189.075,121.975);
+	this.shape_5.setTransform(179.075,111.975);
 
 	this.shape_6 = new cjs.Shape();
 	this.shape_6.graphics.f("#EDEBEB").s().p("AgoBAQgegNg9geIhkgoIjkhJQA7gCA4gIIAMACQBaAmBMAbQA0AWAvAQIAxAdIAbAWIAogfQAYgJAjgPIBXghIC6hAQAgAAAvgDIiNAyIi3BMIhpA5IgUAVg");
-	this.shape_6.setTransform(172.05,115.525);
+	this.shape_6.setTransform(147.05,94.525);
 
 	this.shape_7 = new cjs.Shape();
 	this.shape_7.graphics.f("#EDEBEB").s().p("AgjBKQgngTgrgYIhfgqIjdhaQBAAKBAABIAKACQBEAkBPAgQA0AYAlAPIArAbIAYATIAlgcIA1gZQAggMAwgWICrhIQAigEAzgKIiHA6IivBTIhhA5IgSATg");
-	this.shape_7.setTransform(147.35,104.025);
+	this.shape_7.setTransform(116.35,80.025);
 
 	this.shape_8 = new cjs.Shape();
 	this.shape_8.graphics.f("#EDEBEB").s().p("AggBRQgngTgngWQgegNhAgfIh7g2IhjguQBMAWBGAKIAKADQA1AgBOAhQAqAVAqAQIApAYIAWARQAWgQANgKQAbgLAYgMQAjgOAqgUIBKghQAegNA7gdQAtgKAwgQIiFBAQg+AggtAVIihBXIgRARg");
-	this.shape_8.setTransform(116.475,87.55);
+	this.shape_8.setTransform(94.475,66.55);
 
 	this.shape_9 = new cjs.Shape();
 	this.shape_9.graphics.f("#EDEBEB").s().p("AgdBTQgYgKgygaQgngRg0gbQg2gXhEgiIhigxQBaAkBJAQIAJAEQAqAbBHAeQArAVAkANQATALATAJIAUAOIAggWQAbgKAWgLQAlgPAlgSQAWgJAvgWIBSgoQAvgRA2gWQgsAYhUAqQgxAag6AcIhzA9IgqAVIgPAPg");
-	this.shape_9.setTransform(129.3,94.175);
+	this.shape_9.setTransform(70.3,41.175);
 
 	this.shape_10 = new cjs.Shape();
 	this.shape_10.graphics.f("#EDEBEB").s().p("AgZBTQgSgIgzgYQgygWgmgTQg2gXhCgjQgugXgwgaQBmAxBKAVIAJADQAZATBGAcQAlARAiAMIA0AaIAegRIAugSIBFgeIBBgdQAdgOArgWQAxgVA7gcQg4AfhBAiQg2AcgzAYIhDAhIhUAqIgNALg");
-	this.shape_10.setTransform(82.525,68.35);
+	this.shape_10.setTransform(51.575,26.35);
 
 	this.shape_11 = new cjs.Shape();
 	this.shape_11.graphics.f("#EDEBEB").s().p("AgWBOQgYgIgmgRQgdgLg3gZQhAgcg1gcQgvgagogWQBpA5BRAbIAHACQAIAJBDAaQAhAOAgAKQAQAGAPAFIAPAHIAbgNQAUgGAVgIIBBgaIA8gaIA8geQA4gaA4ggQg2Agg4AdQgjAThCAgIhtAwIgjAPIgMAIg");
-	this.shape_11.setTransform(56.95,57);
+	this.shape_11.setTransform(46.95,9.2);
 
 	this.shape_12 = new cjs.Shape();
 	this.shape_12.graphics.f("#EDEBEB").s().p("AhIB0IiWhYIighBIlDhNIBYhgIARAAIEyBmICuBLIBVBDIAvA2IBEhKIBjgzICSg5ICIgpICqgsIBLAoIjMA+IinBEIhwAyIiqB3IgiAzg");
@@ -157,14 +157,14 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(168,167.5,168,167.5);
 // library properties:
 lib.properties = {
-	id: '62B06A58A0084A25BE1A35D482EC45CD',
+	id: '52851024B6764E80A77D2528BDD209E1',
 	width: 336,
 	height: 335,
-	fps: 18,
+	fps: 15,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/頁面飛翔_atlas_1.png?1732033167022", id:"頁面飛翔_atlas_1"}
+		{src:"images/頁面飛翔_atlas_1.png?1732102759396", id:"頁面飛翔_atlas_1"}
 	],
 	preloads: []
 };
@@ -202,7 +202,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['62B06A58A0084A25BE1A35D482EC45CD'] = {
+an.compositions['52851024B6764E80A77D2528BDD209E1'] = {
 	getStage: function() { return exportRoot.stage; },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
